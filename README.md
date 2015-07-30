@@ -1,2 +1,2 @@
 # console
-WordPress theme console 
+A WordPress 
