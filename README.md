@@ -1,0 +1,2 @@
+# console
+WordPress theme console 
